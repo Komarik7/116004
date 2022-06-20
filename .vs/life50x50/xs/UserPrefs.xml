@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DCE70326-D343-42EF-A441-90CBF6970195}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="life50x50/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="life50x50/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="life50x50" expanded="True">
+            <Node name="life50x50" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.life50x50 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
