@@ -1,0 +1,11 @@
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\bin\Debug\life50x50.exe.config
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\bin\Debug\life50x50.exe
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\bin\Debug\life50x50.pdb
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.csproj.AssemblyReference.cache
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.Form1.resources
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.Properties.Resources.resources
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.csproj.GenerateResource.cache
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.csproj.CoreCompileInputs.cache
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.exe
+C:\Users\Nekrolyte\Desktop\Заочник\Курсовая_кафе\life50x50\life50x50\obj\Debug\life50x50.pdb
