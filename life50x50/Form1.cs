@@ -182,14 +182,15 @@ namespace life50x50
             int left = j == 0 ? 49 : j - 1;
             int right = j == 49 ? 0 : j + 1;
 
-            if (gameboard[top, left] == true) { total++; }
-            if (gameboard[top, j] == true) { total++; }
-            if (gameboard[top, right] == true) { total++; }
-            if (gameboard[i, left] == true) { total++; }
-            if (gameboard[i, right] == true) { total++; }
-            if (gameboard[bot, left] == true) { total++; }
-            if (gameboard[bot, j] == true) { total++; }
-            if (gameboard[bot, right] == true) { total++; }
+            if (gameboard[top, left]) { total++; }
+            if (gameboard[top, j]) { total++; }
+            if (gameboard[top, right]) { total++; }
+            if (gameboard[i, left]) { total++; }
+            if (gameboard[i, right]) { total++; }
+            if (gameboard[bot, left]) == true) { total++; }
+            if (gameboard[bot, j]) { total++; }
+            if (gameboard[bot, right]) { total++; }
+
 
             return total;
         }
