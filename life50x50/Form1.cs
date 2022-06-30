@@ -84,14 +84,13 @@ namespace life50x50
         private void panel1_MouseClick(object sender, MouseEventArgs e)
         {
             if (gamestarted == false)
-            {
                 if (gameboard[e.X / 20, e.Y / 20] == false)
                 {
                     gameboard[e.X / 20, e.Y / 20] = true;
                     totalAlive++;
                     panel1.Refresh();
                 }
-            }
+
         }
 
         private void стартToolStripMenuItem_Click(object sender, EventArgs e)
