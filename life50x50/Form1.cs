@@ -73,15 +73,10 @@ namespace life50x50
             }
 
             for (int i = 0; i<50; i++)
-            {
                 for (int j = 0; j<50; j++)
-                {
-                    if (gameboard [i, j] == true)
-                    {
+                    if (gameboard [i, j])
                         g.FillEllipse(myBrush, i * 20, j * 20, 20, 20);
-                    }
-                }
-            }
+
             
             
         }
