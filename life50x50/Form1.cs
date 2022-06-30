@@ -58,7 +58,8 @@ namespace life50x50
 
         private void очиститьToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            prepgame();
+            PrepareGame();
+
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
