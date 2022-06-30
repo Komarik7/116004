@@ -120,9 +120,8 @@ namespace life50x50
                 menuStrip1.Items[2].Enabled = true;
             }
             else
-            {
-                timer.Enabled = true;
-            }            
+                timer.Enabled = true;          
+
         }
 
         private void gameMove()
