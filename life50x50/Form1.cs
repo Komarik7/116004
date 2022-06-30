@@ -31,11 +31,12 @@ namespace life50x50
             timer.Tick += new EventHandler(TimerEventProcessor);
             timer.Interval = 1000;
             menuStrip1.Items[1].Visible = false;
-            prepgame();
+            PrepareGame();
         }
 
-        private void prepgame()
+        private void PrepareGame()
         {
+
             stage = 1;
             totalAlive = 0;
             changes = 0;
