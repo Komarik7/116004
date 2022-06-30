@@ -42,12 +42,10 @@ namespace life50x50
             changes = 0;
             toolStripStatusLabel1.Text = "Поколение "+stage.ToString();
             for (int i = 0; i < 50; i++)
-            {
                 for (int j = 0; j < 50; j++)
-                {
                     gameboard[i, j] = false;
-                }
-            }
+
+
             gamestarted = false;
 
             panel1.Refresh();
