@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0A702A4F-96B7-45CA-B8C9-E53A3DFE867F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Task11UnitTests/UnitTests.cs">
+    <Files>
+      <File FileName="Class1.cs" Line="1" Column="1" />
+      <File FileName="Class2.cs" Line="1" Column="1" />
+      <File FileName="../Task11UnitTests/Class1.cs" Line="1" Column="1" />
+      <File FileName="../Task11UnitTests/UnitTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task11" expanded="True">
+            <Node name="Task11" expanded="True" />
+            <Node name="Task11UnitTests" expanded="True">
+              <Node name="UnitTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task11UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
